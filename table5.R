@@ -1,3 +1,10 @@
+setwd("~/GitHub/RA_CVD")
+
+library(tableone)
+library(survey)
+
+load("analytic.RData")
+
 # Design set up
 dat.full$miss <- 1
 dat.full$miss[dat.full$id %in% dat.no.miss2$id] <- 0
