@@ -1,0 +1,30 @@
+Variable name,Variable description
+id,Identification
+age,Numeric age
+age.cat,Categorical age
+sex,
+education,
+race,
+marital,Marital status
+income,
+born,whether born in US
+year,10 NHANES cycles
+year1,3 categories of NHANES cycles
+survey.weight,
+psu,
+strata,
+bmi,Body mass index in kg/m2
+diet,
+sleep,
+smoking,
+physical.activity,
+htn,Hypertension
+diabetes,
+high.cholesterol,
+copd,
+history,Family history of CVD
+medical.access,Access to medical services
+rheumatoid,Rheumatoid arthritis
+cvd,
+age.cvd,Age at CVD
+age.arthritis,Age at RA
